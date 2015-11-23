@@ -1,0 +1,25 @@
+{
+  "name": "buildings-estimation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rub21/buildings-estimation.git"
+  },
+  "author": "Ruben Lopez M <ruben@mapbox.com> (http://rub21.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rub21/buildings-estimation/issues"
+  },
+  "homepage": "https://github.com/Rub21/buildings-estimation#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "osmium": "^0.4.4",
+    "turf": "^2.0.2",
+    "underscore": "^1.8.3"
+  }
+}
